@@ -10,4 +10,5 @@ print("Booted!")
 sleep(1.67)
 Username = input("What is yor Username? ")
 if Username in Loaded_Users:
-	  print("Username in 'Loaded_Users'. 
+    print("Username in 'Loaded_Users'. Please continue to Log In by pressing Enter.")
+	  
