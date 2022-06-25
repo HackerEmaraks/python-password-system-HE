@@ -14,4 +14,4 @@ if Username in Loaded_Users:
     input("> ")
     pass
 else:
-    pass
+    print("loading a new user...")
